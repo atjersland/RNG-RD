@@ -58,7 +58,7 @@ The binary data was tested as an Independent and Identically Distributed(IID) so
 ### Summary of Results:
 
     Calculating baseline statistics...
-        Raw Mean: 0.493822
+        Raw Mean: 0.507345
         Median: 0.500000
         Binary: true
 
